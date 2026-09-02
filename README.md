@@ -11,3 +11,5 @@ Auto-synced by LeetCode to GitHub Sync.
 | # | Title | Difficulty | Tags | Status |
 | --- | --- | --- | --- | --- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Array, Binary Search, Divide and Conquer | ✅ Accepted |<!-- id:median-of-two-sorted-arrays -->
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | ✅ Accepted |<!-- id:add-two-numbers -->
+
