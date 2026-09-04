@@ -18,6 +18,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Hash Table, String, Queue, Counting | ✅ Accepted |<!-- id:first-unique-character-in-a-string -->
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:isomorphic-strings -->
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Array, Hash Table, Matrix | ✅ Accepted |<!-- id:valid-sudoku -->
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | Array, Bit Manipulation | ✅ Accepted |<!-- id:single-number -->
+
 
 
 
