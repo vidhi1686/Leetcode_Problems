@@ -20,6 +20,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Array, Hash Table, Matrix | ✅ Accepted |<!-- id:valid-sudoku -->
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | Array, Bit Manipulation | ✅ Accepted |<!-- id:single-number -->
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Array, Two Pointers, Sorting | ✅ Accepted |<!-- id:3sum -->
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | ✅ Accepted |<!-- id:top-k-frequent-elements -->
+
 
 
 
