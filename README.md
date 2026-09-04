@@ -14,6 +14,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | ✅ Accepted |<!-- id:add-two-numbers -->
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | Array, Hash Table, Sliding Window | ✅ Accepted |<!-- id:contains-duplicate-ii -->
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | Array, Hash Table, Union-Find | ✅ Accepted |<!-- id:longest-consecutive-sequence -->
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:two-sum -->
+
 
 
 
