@@ -23,6 +23,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | ✅ Accepted |<!-- id:top-k-frequent-elements -->
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | Array, Hash Table, Prefix Sum | ✅ Accepted |<!-- id:subarray-sums-divisible-by-k -->
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | Hash Table, Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:find-duplicate-subtrees -->
+| 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Array, Math, Binary Search, Prefix Sum, Randomized | ✅ Accepted |<!-- id:random-pick-with-weight -->
+
 
 
 
