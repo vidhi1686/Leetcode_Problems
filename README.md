@@ -26,6 +26,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Array, Math, Binary Search, Prefix Sum, Randomized | ✅ Accepted |<!-- id:random-pick-with-weight -->
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:k-diff-pairs-in-an-array -->
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor | ✅ Accepted |<!-- id:max-points-on-a-line -->
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:substring-with-concatenation-of-all-words -->
+
 
 
 
