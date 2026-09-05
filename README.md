@@ -24,6 +24,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | Array, Hash Table, Prefix Sum | ✅ Accepted |<!-- id:subarray-sums-divisible-by-k -->
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | Hash Table, Tree, Depth-First Search, Binary Tree | ✅ Accepted |<!-- id:find-duplicate-subtrees -->
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | Medium | Array, Math, Binary Search, Prefix Sum, Randomized | ✅ Accepted |<!-- id:random-pick-with-weight -->
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | Medium | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:k-diff-pairs-in-an-array -->
+
 
 
 
