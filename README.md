@@ -29,6 +29,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:substring-with-concatenation-of-all-words -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:longest-substring-without-repeating-characters -->
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | ✅ Accepted |<!-- id:longest-palindromic-substring -->
+
 
 
 
