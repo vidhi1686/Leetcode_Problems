@@ -34,6 +34,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String | ✅ Accepted |<!-- id:string-to-integer-atoi -->
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | ✅ Accepted |<!-- id:decode-string -->
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | String, Stack | ✅ Accepted |<!-- id:remove-all-adjacent-duplicates-in-string-ii -->
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | ✅ Accepted |<!-- id:group-anagrams -->
+
 
 
 
