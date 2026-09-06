@@ -28,6 +28,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor | ✅ Accepted |<!-- id:max-points-on-a-line -->
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:substring-with-concatenation-of-all-words -->
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | Hash Table, String, Counting | ✅ Accepted |<!-- id:ransom-note -->
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:longest-substring-without-repeating-characters -->
+
 
 
 
