@@ -31,6 +31,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:longest-substring-without-repeating-characters -->
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | ✅ Accepted |<!-- id:longest-palindromic-substring -->
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:find-all-anagrams-in-a-string -->
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String | ✅ Accepted |<!-- id:string-to-integer-atoi -->
+
 
 
 
