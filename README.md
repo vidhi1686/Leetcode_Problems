@@ -33,7 +33,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:find-all-anagrams-in-a-string -->
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | String | ✅ Accepted |<!-- id:string-to-integer-atoi -->
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | Medium | String, Stack, Recursion | ✅ Accepted |<!-- id:decode-string -->
-| 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | String, Stack | ⏳ Time Limit Exceeded |<!-- id:remove-all-adjacent-duplicates-in-string-ii -->
+| 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Medium | String, Stack | ✅ Accepted |<!-- id:remove-all-adjacent-duplicates-in-string-ii -->
+
 
 
 
