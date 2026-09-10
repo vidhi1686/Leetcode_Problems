@@ -135,6 +135,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:department-highest-salary -->
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | ✅ Accepted |<!-- id:consecutive-numbers -->
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
+| 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
+
 
 
 
