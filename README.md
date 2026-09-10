@@ -178,6 +178,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:daily-temperatures -->
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | ✅ Accepted |<!-- id:sqrtx -->
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Design, Queue, Data Stream | ✅ Accepted |<!-- id:number-of-recent-calls -->
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-stack-using-queues -->
+
 
 
 
