@@ -1,0 +1,27 @@
+class Solution {
+public:
+    string categorizeBox(int length, int width, int height, int mass) {
+        bool Heavy =false, Bulky=false;
+        double volume= (double) length*width*height;
+        if(mass>=100)
+            Heavy=true;
+        
+        if(length>=1e4 || width>=1e4 || height >=1e4 || volume >=1e9)
+            Bulky=true;
+        
+        if(Bulky&& Heavy)
+            return "Both";
+        
+        else if (!Bulky &&!Heavy)
+            return "Neither";
+        
+        else if(Bulky&&! Heavy)
+            return "Bulky";
+        
+        else 
+            return "Heavy";
+        
+
+       
+    }
+};
