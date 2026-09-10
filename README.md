@@ -212,6 +212,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | ✅ Accepted |<!-- id:sort-colors -->
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | Medium | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort | ✅ Accepted |<!-- id:sort-list -->
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:delete-node-in-a-linked-list -->
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle-ii -->
+
 
 
 
