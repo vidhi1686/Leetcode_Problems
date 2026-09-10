@@ -56,6 +56,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | Easy | Array | ✅ Accepted |<!-- id:number-of-students-doing-homework-at-a-given-time -->
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Easy | Math, Binary Search | ✅ Accepted |<!-- id:arranging-coins -->
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | Math, Bit Manipulation, Recursion | ✅ Accepted |<!-- id:power-of-four -->
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:island-perimeter -->
+
 
 
 
