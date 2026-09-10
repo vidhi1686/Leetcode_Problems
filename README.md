@@ -216,6 +216,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:swapping-nodes-in-a-linked-list -->
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list-ii -->
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array, Prefix Sum | ✅ Accepted |<!-- id:product-of-array-except-self -->
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting, Quicksort | ✅ Accepted |<!-- id:merge-intervals -->
+
 
 
 
