@@ -83,6 +83,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | ✅ Accepted |<!-- id:customers-who-never-order -->
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:delete-duplicate-emails -->
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | ✅ Accepted |<!-- id:rising-temperature -->
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:game-play-analysis-i -->
+
 
 
 
