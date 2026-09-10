@@ -131,6 +131,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | Easy | Database | ✅ Accepted |<!-- id:the-latest-login-in-2020 -->
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | Database | ✅ Accepted |<!-- id:calculate-special-bonus -->
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | ✅ Accepted |<!-- id:managers-with-at-least-5-direct-reports -->
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | ✅ Accepted |<!-- id:game-play-analysis-iv -->
+
 
 
 
