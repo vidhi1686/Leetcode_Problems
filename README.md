@@ -38,6 +38,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:minimum-window-substring -->
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-element -->
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | String, Dynamic Programming, Stack, Bracket Sequences | ✅ Accepted |<!-- id:longest-valid-parentheses -->
+
 
 
 
