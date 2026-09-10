@@ -78,6 +78,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting | ✅ Accepted |<!-- id:sort-characters-by-frequency -->
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | ✅ Accepted |<!-- id:longest-common-prefix -->
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | ✅ Accepted |<!-- id:combine-two-tables -->
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | Database | ✅ Accepted |<!-- id:employees-earning-more-than-their-managers -->
+
 
 
 
