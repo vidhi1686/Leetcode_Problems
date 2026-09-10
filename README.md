@@ -132,6 +132,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | Easy | Database | ✅ Accepted |<!-- id:calculate-special-bonus -->
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | Database | ✅ Accepted |<!-- id:managers-with-at-least-5-direct-reports -->
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | Database | ✅ Accepted |<!-- id:game-play-analysis-iv -->
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:department-highest-salary -->
+
 
 
 
