@@ -84,6 +84,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:delete-duplicate-emails -->
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Database | ✅ Accepted |<!-- id:rising-temperature -->
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | Database | ✅ Accepted |<!-- id:game-play-analysis-i -->
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | Database | ✅ Accepted |<!-- id:employee-bonus -->
+
 
 
 
