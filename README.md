@@ -180,6 +180,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | Easy | Design, Queue, Data Stream | ✅ Accepted |<!-- id:number-of-recent-calls -->
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-stack-using-queues -->
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:invert-binary-tree -->
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Easy | Array, Hash Table, Stack, Monotonic Stack | ✅ Accepted |<!-- id:next-greater-element-i -->
+
 
 
 
