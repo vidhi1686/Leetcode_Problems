@@ -128,6 +128,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | ✅ Accepted |<!-- id:number-of-unique-subjects-taught-by-each-teacher -->
 | 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | Easy | Database | ✅ Accepted |<!-- id:employees-whose-manager-left-the-company -->
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) | Easy | Database | ✅ Accepted |<!-- id:employees-with-missing-information -->
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | Easy | Database | ✅ Accepted |<!-- id:the-latest-login-in-2020 -->
+
 
 
 
