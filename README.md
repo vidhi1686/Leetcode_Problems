@@ -138,6 +138,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
 | 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | Database | ✅ Accepted |<!-- id:exchange-seats -->
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | Database | ✅ Accepted |<!-- id:tree-node -->
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium | Database | ✅ Accepted |<!-- id:friend-requests-ii-who-has-the-most-friends -->
+
 
 
 
