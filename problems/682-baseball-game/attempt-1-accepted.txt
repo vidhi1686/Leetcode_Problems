@@ -1,0 +1,54 @@
+class Solution {
+public:
+    // Custom string to int converter
+    int stringToInt(string s) {
+        int num = 0;
+        int sign = 1;
+        int i = 0;
+
+        // Check for negative sign
+        if (s[0] == '-') {
+            sign = -1;
+            i = 1;
+        }
+
+        // Convert each character to digit and build the number
+        for (; i < s.length(); i++) {
+            num = num * 10 + (s[i] - '0');
+        }
+
+        return num * sign;
+    }
+
+    int calPoints(vector<string>& operations) {
+        int scores[1000]; // To store scores
+        int index = 0;    // Position tracker
+
+        for (string s : operations) {
+            if (s == "C") {
+                index--; // Remove last score
+            } 
+            else if (s == "D") {
+                scores[index] = 2 * scores[index - 1];
+                index++;
+            } 
+            else if (s == "+") {
+                scores[index] = scores[index - 1] + scores[index - 2];
+                index++;
+            } 
+            else {
+                // Use custom string to int converter
+                scores[index] = stringToInt(s);
+                index++;
+            }
+        }
+
+        // Add all scores
+        int sum = 0;
+        for (int i = 0; i < index; i++) {
+            sum += scores[i];
+        }
+
+        return sum;
+    }
+};
