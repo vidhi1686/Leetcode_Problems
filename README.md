@@ -185,6 +185,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | ✅ Accepted |<!-- id:container-with-most-water -->
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Medium | Stack, Design, Monotonic Stack, Data Stream | ✅ Accepted |<!-- id:online-stock-span -->
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Array, Linked List, Design, Queue | ✅ Accepted |<!-- id:design-circular-queue -->
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | Array, Dynamic Programming, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:01-matrix -->
+
 
 
 
