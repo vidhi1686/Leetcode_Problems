@@ -175,6 +175,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Linked List, Recursion | ✅ Accepted |<!-- id:swap-nodes-in-pairs -->
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-nodes-in-k-group -->
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | String, Stack | ✅ Accepted |<!-- id:remove-all-adjacent-duplicates-in-string -->
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:daily-temperatures -->
+
 
 
 
