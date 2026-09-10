@@ -110,6 +110,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | Easy | Database | ✅ Accepted |<!-- id:group-sold-products-by-the-date -->
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | ✅ Accepted |<!-- id:percentage-of-users-attended-a-contest -->
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | Database | ✅ Accepted |<!-- id:bank-account-summary-ii -->
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
+
 
 
 
