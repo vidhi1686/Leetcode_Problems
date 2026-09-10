@@ -203,6 +203,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Array, Math | ✅ Accepted |<!-- id:add-to-array-form-of-integer -->
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-the-difference-of-two-arrays -->
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:remove-linked-list-elements -->
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | ✅ Accepted |<!-- id:search-insert-position -->
+
 
 
 
