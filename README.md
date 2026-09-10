@@ -142,6 +142,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | Database | ✅ Accepted |<!-- id:investments-in-2016 -->
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | Medium | Database | ✅ Accepted |<!-- id:customers-who-bought-all-products -->
 | 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | Medium | Database | ✅ Accepted |<!-- id:product-sales-analysis-iii -->
+| 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | Medium | Database | ✅ Accepted |<!-- id:confirmation-rate -->
+
 
 
 
