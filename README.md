@@ -190,6 +190,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:symmetric-tree -->
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree | ✅ Accepted |<!-- id:unique-binary-search-trees -->
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:binary-tree-level-order-traversal -->
+| 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | ✅ Accepted |<!-- id:binary-tree-cameras -->
+
 
 
 
