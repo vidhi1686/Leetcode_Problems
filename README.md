@@ -219,6 +219,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Array, Sorting, Quicksort | ✅ Accepted |<!-- id:merge-intervals -->
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Linked List | ✅ Accepted |<!-- id:reverse-linked-list-ii -->
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:partition-list -->
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:intersection-of-two-arrays -->
+
 
 
 
