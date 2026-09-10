@@ -199,6 +199,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Medium | Array, Stack, Monotonic Stack | ✅ Accepted |<!-- id:next-greater-element-ii -->
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-all-numbers-disappeared-in-an-array -->
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle -->
+
 
 
 
