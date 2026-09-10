@@ -37,6 +37,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | ✅ Accepted |<!-- id:group-anagrams -->
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | Hash Table, String, Sliding Window | ✅ Accepted |<!-- id:minimum-window-substring -->
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | ✅ Accepted |<!-- id:palindrome-number -->
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:remove-element -->
+
 
 
 
