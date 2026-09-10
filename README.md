@@ -154,6 +154,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Database | ✅ Accepted |<!-- id:human-traffic-of-stadium -->
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | Database | ✅ Accepted |<!-- id:trips-and-users -->
 | 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Database | ✅ Accepted |<!-- id:department-top-three-salaries -->
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:running-sum-of-1d-array -->
+
 
 
 
