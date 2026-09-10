@@ -160,6 +160,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | Math, Bit Manipulation | ✅ Accepted |<!-- id:number-of-steps-to-reduce-a-number-to-zero -->
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | Stack, Design | ✅ Accepted |<!-- id:min-stack -->
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:reverse-linked-list -->
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack, Design, Queue | ✅ Accepted |<!-- id:implement-queue-using-stacks -->
+
 
 
 
