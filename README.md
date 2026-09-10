@@ -120,6 +120,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | Database | ✅ Accepted |<!-- id:fix-names-in-a-table -->
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | Database | ✅ Accepted |<!-- id:rearrange-products-table -->
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | ✅ Accepted |<!-- id:recyclable-and-low-fat-products -->
+
 
 
 
