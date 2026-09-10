@@ -117,6 +117,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | Easy | Database | ✅ Accepted |<!-- id:daily-leads-and-partners -->
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | ✅ Accepted |<!-- id:invalid-tweets -->
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | Database | ✅ Accepted |<!-- id:average-time-of-process-per-machine -->
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | Easy | Database | ✅ Accepted |<!-- id:fix-names-in-a-table -->
+
 
 
 
