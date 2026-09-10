@@ -76,6 +76,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | Easy | Array, Binary Search, Segment Tree, Simulation, Ordered Set | ✅ Accepted |<!-- id:fruits-into-baskets-ii -->
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | String, Stack, Greedy, Monotonic Stack | ✅ Accepted |<!-- id:remove-k-digits -->
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting | ✅ Accepted |<!-- id:sort-characters-by-frequency -->
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | ✅ Accepted |<!-- id:longest-common-prefix -->
+
 
 
 
