@@ -220,6 +220,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | Linked List | ✅ Accepted |<!-- id:reverse-linked-list-ii -->
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:partition-list -->
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:intersection-of-two-arrays -->
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | Array, Hash Table, String | ✅ Accepted |<!-- id:unique-morse-code-words -->
+
 
 
 
