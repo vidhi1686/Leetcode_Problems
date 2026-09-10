@@ -125,6 +125,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:the-number-of-employees-which-report-to-each-employee -->
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:nth-highest-salary -->
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | Easy | Database | ✅ Accepted |<!-- id:number-of-unique-subjects-taught-by-each-teacher -->
+
 
 
 
