@@ -187,6 +187,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | Array, Linked List, Design, Queue | ✅ Accepted |<!-- id:design-circular-queue -->
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | Array, Dynamic Programming, Breadth-First Search, Matrix | ✅ Accepted |<!-- id:01-matrix -->
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query | ✅ Accepted |<!-- id:sliding-window-maximum -->
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | ✅ Accepted |<!-- id:symmetric-tree -->
+
 
 
 
