@@ -214,6 +214,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:delete-node-in-a-linked-list -->
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm | ✅ Accepted |<!-- id:linked-list-cycle-ii -->
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:swapping-nodes-in-a-linked-list -->
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-duplicates-from-sorted-list-ii -->
+
 
 
 
