@@ -111,6 +111,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | Easy | Database | ✅ Accepted |<!-- id:percentage-of-users-attended-a-contest -->
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | Easy | Database | ✅ Accepted |<!-- id:bank-account-summary-ii -->
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | ✅ Accepted |<!-- id:patients-with-a-condition -->
+
 
 
 
