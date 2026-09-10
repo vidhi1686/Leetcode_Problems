@@ -121,6 +121,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) | Easy | Database | ✅ Accepted |<!-- id:rearrange-products-table -->
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:primary-department-for-each-employee -->
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Database | ✅ Accepted |<!-- id:recyclable-and-low-fat-products -->
+| 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:find-total-time-spent-by-each-employee -->
+
 
 
 
