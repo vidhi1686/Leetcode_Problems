@@ -136,6 +136,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | Database | ✅ Accepted |<!-- id:consecutive-numbers -->
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | Database | ✅ Accepted |<!-- id:rank-scores -->
 | 1158 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | Medium | Database | ✅ Accepted |<!-- id:market-analysis-i -->
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | Medium | Database | ✅ Accepted |<!-- id:exchange-seats -->
+
 
 
 
