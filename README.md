@@ -194,6 +194,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:rotate-list -->
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | Linked List, Two Pointers, Stack, Recursion | ✅ Accepted |<!-- id:reorder-list -->
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:find-the-highest-altitude -->
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | Linked List | ✅ Accepted |<!-- id:odd-even-linked-list -->
+
 
 
 
