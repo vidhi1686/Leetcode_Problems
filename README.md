@@ -124,6 +124,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:find-total-time-spent-by-each-employee -->
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | Easy | Database | ✅ Accepted |<!-- id:the-number-of-employees-which-report-to-each-employee -->
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:nth-highest-salary -->
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | Database | ✅ Accepted |<!-- id:second-highest-salary -->
+
 
 
 
