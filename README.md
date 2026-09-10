@@ -221,6 +221,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:partition-list -->
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting | ✅ Accepted |<!-- id:intersection-of-two-arrays -->
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | Array, Hash Table, String | ✅ Accepted |<!-- id:unique-morse-code-words -->
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | Hash Table, String | ✅ Accepted |<!-- id:word-pattern -->
+
 
 
 
