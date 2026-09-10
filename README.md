@@ -200,6 +200,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Array, Two Pointers | ✅ Accepted |<!-- id:move-zeroes -->
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Array, Hash Table | ✅ Accepted |<!-- id:find-all-numbers-disappeared-in-an-array -->
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle -->
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Array, Math | ✅ Accepted |<!-- id:add-to-array-form-of-integer -->
+
 
 
 
