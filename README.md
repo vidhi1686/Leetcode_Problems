@@ -208,6 +208,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:contains-duplicate -->
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | ✅ Accepted |<!-- id:missing-number -->
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect | ✅ Accepted |<!-- id:kth-largest-element-in-an-array -->
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | Array, Prefix Sum | ✅ Accepted |<!-- id:find-pivot-index -->
+
 
 
 
