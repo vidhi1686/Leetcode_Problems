@@ -146,6 +146,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | Medium | Database | ✅ Accepted |<!-- id:count-salary-categories -->
 | 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | Medium | Database | ✅ Accepted |<!-- id:capital-gainloss -->
 | 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | Medium | Database | ✅ Accepted |<!-- id:movie-rating -->
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | Database | ✅ Accepted |<!-- id:restaurant-growth -->
+
 
 
 
