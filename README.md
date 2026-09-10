@@ -113,6 +113,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | Easy | Database | ✅ Accepted |<!-- id:customer-who-visited-but-did-not-make-any-transactions -->
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | Easy | Database | ✅ Accepted |<!-- id:patients-with-a-condition -->
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | Easy | Database | ✅ Accepted |<!-- id:find-users-with-valid-e-mails -->
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | ✅ Accepted |<!-- id:find-followers-count -->
+
 
 
 
