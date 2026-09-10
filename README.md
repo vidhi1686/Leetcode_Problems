@@ -80,6 +80,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | ✅ Accepted |<!-- id:combine-two-tables -->
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | Database | ✅ Accepted |<!-- id:employees-earning-more-than-their-managers -->
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | Database | ✅ Accepted |<!-- id:duplicate-emails -->
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | Database | ✅ Accepted |<!-- id:customers-who-never-order -->
+
 
 
 
