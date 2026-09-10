@@ -172,6 +172,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium | Hash Table, Linked List, Design, Heap (Priority Queue) | ✅ Accepted |<!-- id:design-twitter -->
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Linked List, Recursion | ✅ Accepted |<!-- id:merge-two-sorted-lists -->
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Linked List, Two Pointers | ✅ Accepted |<!-- id:remove-nth-node-from-end-of-list -->
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Linked List, Recursion | ✅ Accepted |<!-- id:swap-nodes-in-pairs -->
+
 
 
 
