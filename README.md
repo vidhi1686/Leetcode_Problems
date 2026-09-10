@@ -116,6 +116,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | Easy | Database | ✅ Accepted |<!-- id:find-followers-count -->
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | Easy | Database | ✅ Accepted |<!-- id:daily-leads-and-partners -->
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | Easy | Database | ✅ Accepted |<!-- id:invalid-tweets -->
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | Easy | Database | ✅ Accepted |<!-- id:average-time-of-process-per-machine -->
+
 
 
 
