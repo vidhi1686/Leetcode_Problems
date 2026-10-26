@@ -227,6 +227,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:find-all-duplicates-in-an-array -->
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | Array, String, Simulation | ✅ Accepted |<!-- id:text-justification -->
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | Two Pointers, String, Stack, Simulation | ✅ Accepted |<!-- id:backspace-string-compare -->
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
+
 
 
 
