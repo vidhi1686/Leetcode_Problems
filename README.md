@@ -228,6 +228,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | Array, String, Simulation | ✅ Accepted |<!-- id:text-justification -->
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | Two Pointers, String, Stack, Simulation | ✅ Accepted |<!-- id:backspace-string-compare -->
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
+| 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | ✅ Accepted |<!-- id:sum-of-subarray-minimums -->
+
 
 
 
