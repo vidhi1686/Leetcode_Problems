@@ -230,6 +230,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:validate-stack-sequences -->
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | ✅ Accepted |<!-- id:sum-of-subarray-minimums -->
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:asteroid-collision -->
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | String, Stack, Greedy, Bracket Sequences | ✅ Accepted |<!-- id:minimum-add-to-make-parentheses-valid -->
+
 
 
 
