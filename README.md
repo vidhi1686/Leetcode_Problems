@@ -226,6 +226,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm | ✅ Accepted |<!-- id:find-the-index-of-the-first-occurrence-in-a-string -->
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | Array, Hash Table, Sorting | ✅ Accepted |<!-- id:find-all-duplicates-in-an-array -->
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | Array, String, Simulation | ✅ Accepted |<!-- id:text-justification -->
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | Two Pointers, String, Stack, Simulation | ✅ Accepted |<!-- id:backspace-string-compare -->
+
 
 
 
