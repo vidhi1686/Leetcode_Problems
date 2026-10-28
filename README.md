@@ -234,6 +234,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle-ii -->
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | String, Backtracking, Bit Manipulation | ✅ Accepted |<!-- id:letter-case-permutation -->
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | Backtracking | ✅ Accepted |<!-- id:combinations -->
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | Array, Backtracking, Bit Manipulation | ✅ Accepted |<!-- id:subsets-ii -->
+
 
 
 
