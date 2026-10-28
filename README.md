@@ -231,6 +231,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | ✅ Accepted |<!-- id:sum-of-subarray-minimums -->
 | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | Array, Stack, Simulation | ✅ Accepted |<!-- id:asteroid-collision -->
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | String, Stack, Greedy, Bracket Sequences | ✅ Accepted |<!-- id:minimum-add-to-make-parentheses-valid -->
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Array, Dynamic Programming | ✅ Accepted |<!-- id:pascals-triangle-ii -->
+
 
 
 
