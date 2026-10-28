@@ -238,6 +238,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | ✅ Accepted |<!-- id:word-search -->
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Array, Backtracking, Sorting | ✅ Accepted |<!-- id:permutations-ii -->
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Hash Table, String, Backtracking | ✅ Accepted |<!-- id:letter-combinations-of-a-phone-number -->
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Array, Backtracking | ✅ Accepted |<!-- id:combination-sum-iii -->
+
 
 
 
