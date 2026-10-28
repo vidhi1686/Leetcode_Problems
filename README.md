@@ -235,6 +235,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | Medium | String, Backtracking, Bit Manipulation | ✅ Accepted |<!-- id:letter-case-permutation -->
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | Backtracking | ✅ Accepted |<!-- id:combinations -->
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | Array, Backtracking, Bit Manipulation | ✅ Accepted |<!-- id:subsets-ii -->
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | Array, String, Backtracking, Depth-First Search, Matrix | ✅ Accepted |<!-- id:word-search -->
+
 
 
 
