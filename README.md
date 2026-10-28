@@ -239,6 +239,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | Array, Backtracking, Sorting | ✅ Accepted |<!-- id:permutations-ii -->
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Hash Table, String, Backtracking | ✅ Accepted |<!-- id:letter-combinations-of-a-phone-number -->
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Array, Backtracking | ✅ Accepted |<!-- id:combination-sum-iii -->
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | String, Backtracking | ✅ Accepted |<!-- id:restore-ip-addresses -->
+
 
 
 
