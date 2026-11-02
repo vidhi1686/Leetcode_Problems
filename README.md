@@ -245,6 +245,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | Array, Binary Search, Ternary Search | ✅ Accepted |<!-- id:peak-index-in-a-mountain-array -->
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Binary Search, Interactive | ✅ Accepted |<!-- id:guess-number-higher-or-lower -->
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-first-and-last-position-of-element-in-sorted-array -->
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-peak-element -->
+
 
 
 
