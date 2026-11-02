@@ -247,6 +247,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-first-and-last-position-of-element-in-sorted-array -->
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-peak-element -->
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:search-in-rotated-sorted-array -->
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:search-in-rotated-sorted-array-ii -->
+
 
 
 
