@@ -248,6 +248,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-peak-element -->
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:search-in-rotated-sorted-array -->
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:search-in-rotated-sorted-array-ii -->
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Array, Binary Search | ✅ Accepted |<!-- id:find-minimum-in-rotated-sorted-array -->
+
 
 
 
