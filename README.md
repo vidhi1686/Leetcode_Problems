@@ -241,6 +241,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Array, Backtracking | ✅ Accepted |<!-- id:combination-sum-iii -->
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | String, Backtracking | ✅ Accepted |<!-- id:restore-ip-addresses -->
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | ✅ Accepted |<!-- id:combination-sum-iv -->
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | ✅ Accepted |<!-- id:first-bad-version -->
+
 
 
 
