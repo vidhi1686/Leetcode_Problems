@@ -243,6 +243,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | ✅ Accepted |<!-- id:combination-sum-iv -->
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | Binary Search, Interactive | ✅ Accepted |<!-- id:first-bad-version -->
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | Array, Binary Search, Ternary Search | ✅ Accepted |<!-- id:peak-index-in-a-mountain-array -->
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | Binary Search, Interactive | ✅ Accepted |<!-- id:guess-number-higher-or-lower -->
+
 
 
 
