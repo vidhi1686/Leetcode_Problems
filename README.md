@@ -240,6 +240,8 @@ Auto-synced by LeetCode to GitHub Sync.
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Hash Table, String, Backtracking | ✅ Accepted |<!-- id:letter-combinations-of-a-phone-number -->
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | Medium | Array, Backtracking | ✅ Accepted |<!-- id:combination-sum-iii -->
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | String, Backtracking | ✅ Accepted |<!-- id:restore-ip-addresses -->
+| 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | ✅ Accepted |<!-- id:combination-sum-iv -->
+
 
 
 
